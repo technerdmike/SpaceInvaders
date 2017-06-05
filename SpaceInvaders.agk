@@ -52,9 +52,9 @@ FILE_8=Text.agc;-1
 FILE_9=mainmenu.agc;-1
 
 [files]
-FILE_NAME_0=1;main.agc;27;2
+FILE_NAME_0=0;main.agc;27;2
 FILE_NAME_1=0;Player_shoots.agc;248;1
-FILE_NAME_2=0;mainmenu.agc;714;0
+FILE_NAME_2=1;mainmenu.agc;714;0
 
 [project]
 description=
